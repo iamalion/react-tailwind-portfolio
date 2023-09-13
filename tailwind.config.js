@@ -5,7 +5,11 @@ module.exports = {
     "./components/**/*.{js,jsx,ts,tsx,vue}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        burtons: "Burtons",
+    },
   },
   plugins: [],
+}
 }
