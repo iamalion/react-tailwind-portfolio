@@ -1,7 +1,5 @@
 # React Portfolio with Tailwind
 
-#### A website to view and update a coffee inventory, built with JavaScript & React
-
 #### By Lindsay Warr
 
 ## Technologies Used
